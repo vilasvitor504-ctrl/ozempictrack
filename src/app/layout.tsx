@@ -18,8 +18,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "OzempicTrack - Acompanhamento Inteligente",
-  description: "Aplicativo completo para acompanhamento de Ozempic, nutrição e hidratação",
+  title: "Next.js App - Template Moderno",
+  description: "Template Next.js 15 com React 19, TypeScript e Tailwind CSS",
 };
 
 export default function RootLayout({
